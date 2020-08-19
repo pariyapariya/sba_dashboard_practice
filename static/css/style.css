@@ -1,0 +1,9 @@
+.carousel-item {
+    max-height: 400px;
+    min-width: 100%;
+  }
+
+  .body {
+    background-color: black;
+    text-decoration-color: wheat;
+  }
