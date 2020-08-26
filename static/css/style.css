@@ -1,9 +1,18 @@
 .carousel-item {
-    max-height: 400px;
-    min-width: 100%;
-  }
+  max-height: 400px;
+  min-width: 100%;
+}
 
-  .body {
-    background-color: black;
-    text-decoration-color: wheat;
-  }
+.body {
+  background-color: black;
+  text-decoration-color: wheat;
+}
+
+#footer {
+  margin: 2rem auto 0 auto;
+  text-align: center;
+}
+
+.dashdiv {
+  text-align: center;
+}
